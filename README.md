@@ -1,1 +1,1 @@
-# RPS_SpringMVC
+### Rock Paper Scissors Spring MVC
